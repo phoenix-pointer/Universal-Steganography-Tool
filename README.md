@@ -6,4 +6,5 @@ My pluggins are not working as expected and I am facing difficulty in extracting
 ## New concepts learned
 I learned advanced python concepts like __init__ method, file handling etc., shell scripting , new steg methods , using git.
 ## How to use?
-cd to the folder where /unisteg lives<br>I
+1. cd to the folder where /unisteg lives
+2. ljsg;l
